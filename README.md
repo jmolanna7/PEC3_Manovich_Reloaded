@@ -35,12 +35,9 @@ TEXTO
 
 
 ## REFERENCIAS:
-- Manovich, Lev. (2013). El Software toma el mando. Editorial UOC.
-- Manovich, Lev. (2001). El lenguaje de los nuevos medios de comunicación. Editorial UOC.
-- Jordi Alberich-Pascual. (2018). Elementos de la creatividad multimedia: apropiación, remediación, hibridación (Mosaic) de EMIT.UOC.EDU. Recuperado el 10 de mayo de 2022, de https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
-- Game of Thrones Juego de Tronos Temporada 1 Episodio 1 Gameplay Español (telltale games) (Youtube). Recuperado el 10 de mayo de 2022, de https://www.youtube.com/watch?v=xukR5WLFkbg
-- Crystal world (After J.G. Ballard), by Ann Lislegaard (Excerpt) (Youtube). Recuperado el 10 de mayo de 2022, de https://www.youtube.com/watch?v=CqNV28AK894&t=162s
-- Sintaxis de Markdown. Recuperado el 6 de mayo de 2022, de https://markdown.es/sintaxis-markdown/
+- Manovich, L. (2013). *El Software toma el mando*. Editorial UOC.
+- Manovich, L. (2001). *El lenguaje de los nuevos medios de comunicación*. Editorial UOC.
+- Sintaxis de Markdown. Recuperado el 11 de mayo de 2022, de https://markdown.es/sintaxis-markdown/
 
 ---
 
