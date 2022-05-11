@@ -22,7 +22,7 @@ Los casos seleccionados han sido los siguientes:
 
 TEXTO
 
-### <a name="head1">Videojuegos y deportes: la Wii*</a>
+### <a name="head1">Caso 1: Videojuegos y deportes: la Wii*</a>
 ![Wii Sports | Wii | Juegos | Nintendo](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/wii_24/SI_Wii_WiiSports_NintendoSelects_image1600w.jpg)
 
 TEXTO
