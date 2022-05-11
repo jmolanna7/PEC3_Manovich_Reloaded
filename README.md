@@ -18,20 +18,21 @@ Los casos seleccionados han sido los siguientes:
 - [Caso 2: Pulseras de control de actividades](#head2)
 
 
-##  <a name="head1">Videojuegos y deportes: la Wii*</a>
+## ANÁLISIS BAJO LAS GAFAS DE MANOVICH
+
+TEXTO
+
+### <a name="head1">Videojuegos y deportes: la Wii*</a>
 ![Wii Sports | Wii | Juegos | Nintendo](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/wii_24/SI_Wii_WiiSports_NintendoSelects_image1600w.jpg)
 
 TEXTO
 
-##  <a name="head2">Caso 2: Pulseras de control de actividades</a>
+### <a name="head2">Caso 2: Pulseras de control de actividades</a>
 ![Smartwatch](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Smartwatch-828786.jpg/1200px-Smartwatch-828786.jpg?20160128080415)
 
 
 TEXTO
 
-## ANÁLISIS BAJO LAS GAFAS DE MANOVICH
-
-TEXTO
 
 
 ## REFERENCIAS:
