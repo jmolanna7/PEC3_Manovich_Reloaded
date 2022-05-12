@@ -29,9 +29,7 @@ Según Manovich, la hibridación es un proceso de remediación -de fusión de lo
 
 El primer caso a analizar es el de los deportes a través de videojuegos. Todo el mundo ha escuchado Wii Sports, o incluso ha jugado. 
 
-Wii Sports es un videojuego desarrollado por Nintendo adaptado para la videoconsola Wii, de ahí su nombre, que fue lanzado en 2006. 
-
-Se trata de un juego que simula cinco deportes de manera inalámbrica mediante capacidades sensoriales en sus mandos. 
+Wii Sports es un videojuego desarrollado por Nintendo adaptado para la videoconsola Wii, de ahí su nombre, que fue lanzado en 2006. Se trata de un juego que simula cinco deportes de manera inalámbrica mediante capacidades sensoriales en sus mandos. 
 
 Y aquí, querido lector, te estarás preguntando qué relación tiene con la definición de hibridación de Manovich. Pues bien, este juego está adaptado para reproducir capacidades inalámbricas y sensoriales a través de sus manos como se mencionaba anteriormente, del mismo modo, el jugador ha de reproducir los movimientos que haría en la vida real a la hora de realizar el deporte para que estos sean detectados por los mandos y sean enviados al juego, haciéndole llegar la información y simular el deporte que se practica en la vida real, pero, esta vez, en una pantalla. Esto, además, es puntuado por el juego, al fin y al cabo, se trata de un videojuego pero que integra elementos tradicionales. 
 
