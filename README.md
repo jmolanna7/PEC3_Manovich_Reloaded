@@ -24,7 +24,7 @@ Los casos seleccionados han sido los siguientes:
 
 Según Manovich, la hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia (Adell, s.f.). Mientras que en la multimedia los diferentes tipos de medios conviven de forma contigua, y se sitúan -normalmente- en un plano bidimensional, en la hibridación el medio no se mantiene intacto, sino que se obtiene un nuevo metalenguaje que combina las técnicas de los lenguajes individuales (Manovich, 2013). Por tanto, según Manovich (2013), en la hibridación *"se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones".*
 
-### <a name="head1">Caso 1: Videojuegos y deportes: la Wii*</a>
+### <a name="head1">Caso 1: Videojuegos y deportes: la Wii</a>
 ![Wii Sports | Wii | Juegos | Nintendo](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/wii_24/SI_Wii_WiiSports_NintendoSelects_image1600w.jpg)
 
 El primer caso a analizar es el de los deportes a través de videojuegos. Todo el mundo ha escuchado Wii Sports, o incluso ha jugado. 
