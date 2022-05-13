@@ -24,6 +24,7 @@ Los casos seleccionados han sido los siguientes:
 
 Según Manovich, la hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia (Adell, s.f.). Mientras que en la multimedia los diferentes tipos de medios conviven de forma contigua, y se sitúan -normalmente- en un plano bidimensional, en la hibridación el medio no se mantiene intacto, sino que se obtiene un nuevo metalenguaje que combina las técnicas de los lenguajes individuales (Manovich, 2013). Por tanto, según Manovich (2013), en la hibridación *"se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones".*
 
+
 ### <a name="head1">Caso 1: Videojuegos y deportes: la Wii</a>
 ![Wii Sports | Wii | Juegos | Nintendo](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/wii_24/SI_Wii_WiiSports_NintendoSelects_image1600w.jpg)
 
@@ -40,13 +41,18 @@ Es decir, se unen elementos tradicionales, como serían los deportes, a los medi
 Cabe destacar que no es el único caso de hibridación relacionado con esta temática, pues Nintendo ha desarrollado otros videojuegos con las mismas funcionalidades como puede ser Just Dance, el cual se adapta al baile, o Ring Fit Adventure, el cual combina el deporte como lo hace Wii Sports pero relacionándolo con un juego de aventuras en un mundo de fantasía. 
 
 
-
 ### <a name="head2">Caso 2: Pulseras de control de actividades</a>
 ![Smartwatch](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Smartwatch-828786.jpg/1200px-Smartwatch-828786.jpg?20160128080415)
 
+En segundo lugar, otro claro ejemplo de hibridación son las pulseras de control de actividades, también conocidas como relojes inteligentes.
 
-TEXTO
+Un reloj inteligente es aquel que tiene más funcionalidades que las de uno convencional, estos últimos suelen mostrar la hora y poco más; en cambio, los inteligentes son capaces de, por ejemplo, recibir mensajería instantánea, llamadas telefónicas, acceder a internet e incluso medir el ritmo cardiaco.
 
+Respecto a la hibridación, de los relojes inteligentes interesa el software debido a que son todas aquellas características que permiten y facilitan al usuario gestionar el dispositivo para realizar las tareas deseadas; al contrario del hardware, que son aquellos elementos físicos que componen al dispositivo
+
+Como se comentaba en el primer apartado, la hibridación es la combinación de dos o más medios de diferente tipo, en este caso se combina un reloj convencional con uno inteligente, dotándole de nuevas características. Además, muchos de estos dispositivos controlan elementos relacionados con la salud como la frecuencia cardiaca, los kilómetros recorridos e incluso las horas de sueño. Así pues, no se combina solo la función del reloj convencional con funciones propias de, por ejemplo, un dispositivo móvil, sino que también combina medios que suelen usarse para otros ámbitos completamente diferentes y, que, a primera vista, no parecen estar relacionado. 
+
+Además, muchas veces el usuario puede enlazar este tipo de dispositivo con uno diferente, por ejemplo, el móvil, y controlar los datos recogidos extrayendo unos resultados con el fin de lograr una serie de objetivos. Por ejemplo, a un deportista le interesará más as horas de sueño, kilómetros recorridos... y con ellos puede elaborar un plan de entrenamiento y, por otro lado, un empresario puede centrarse más en reuniones en cualquier espacio gracias a su reloj.
 
 
 ## REFERENCIAS:
