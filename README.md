@@ -36,7 +36,7 @@ Y aquí, querido lector, te estarás preguntando qué relación tiene con la def
 
 Por tanto, se obtiene un metalenguaje nuevo que combina las técnicas de los lenguajes individuales: el movimiento realizado en la vida real, la música, los subtítulos, el video... E incluso las instrucciones del propio juego.
 
-Es decir, se unen elementos tradicionales, como serían los deportes, a los medios digitales (en este caso, los videojuegos) que aportan funcionalidades a dichos elementos.  Con ello, se da pie una nueva Gestalt de medios (ídem).
+Es decir, se unen elementos tradicionales, como serían los deportes, a los medios digitales (en este caso, los videojuegos) que aportan funcionalidades a dichos elementos.  Con ello, se da pie una nueva Gestalt de medios (*ídem*).
 
 Cabe destacar que no es el único caso de hibridación relacionado con esta temática, pues Nintendo ha desarrollado otros videojuegos con las mismas funcionalidades como puede ser Just Dance, el cual se adapta al baile, o Ring Fit Adventure, el cual combina el deporte como lo hace Wii Sports pero relacionándolo con un juego de aventuras en un mundo de fantasía. 
 
