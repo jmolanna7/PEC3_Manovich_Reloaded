@@ -8,7 +8,7 @@ Fecha: Mayo 2022
 
 Tras analizar diferentes casos de hibridación en el libro *El software toma el mando*, de Manovich, se realizará un ensayo con dos nuevos ejemplos.
 
-En la actividad se solicita que usemos un estilo narrativo usando los principios del software y, que para su redacción, usemos la filosofía de escritura abierta basada en las licencias CC. 
+En la actividad se solicita que usemos un estilo narrativo usando los principios del software y que, para su redacción, usemos la filosofía de escritura abierta basada en las licencias CC. 
 
 Este ensayo será publicado en un repositorio en la red, concretamente en el que el lector esta ahora mismo leyendo (Github).
 
@@ -56,9 +56,10 @@ Además, muchas veces el usuario puede enlazar este tipo de dispositivo con uno 
 
 
 ## REFERENCIAS:
+- Adell, F. (s.f.). Remediación, multimedia e hibridación de los medios. UOC.
 - Manovich, L. (2013). *El Software toma el mando*. Editorial UOC.
 - Manovich, L. (2001). *El lenguaje de los nuevos medios de comunicación*. Editorial UOC.
-- Sintaxis de Markdown. Recuperado el 11 de mayo de 2022, de https://markdown.es/sintaxis-markdown/
+- Reloj inteligente (4 de mayo). Recuperado el 11 de mayo en 2022, de *Wikipedia, enciclopedia libre*. Recuperado el 11 de mayo de 2022, de https://es.wikipedia.org/w/index.php?title=Reloj_inteligente&oldid=143321605
 
 ---
 
