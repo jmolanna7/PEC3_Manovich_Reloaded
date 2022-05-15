@@ -63,6 +63,8 @@ Es interesante ver como la cultura digital avanza de esta manera, tanto desde la
 - Manovich, L. (2013). *El Software toma el mando*. Editorial UOC.
 - Manovich, L. (2001). *El lenguaje de los nuevos medios de comunicación*. Editorial UOC.
 - Reloj inteligente (4 de mayo). Recuperado el 11 de mayo en 2022, de *Wikipedia, enciclopedia libre*. Recuperado el 11 de mayo de 2022, de https://es.wikipedia.org/w/index.php?title=Reloj_inteligente&oldid=143321605
+- Wii Sports (19 de abril). Recuperado el 8 de mayo en 2022, de *Wikipedia, enciclopedia libre*. Recuperado el 11 de mayo de 2022, de https://es.wikipedia.org/wiki/Wii_Sports
+
 
 ---
 
