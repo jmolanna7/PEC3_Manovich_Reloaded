@@ -54,6 +54,9 @@ Como se comentaba en el primer apartado, la hibridación es la combinación de d
 
 Además, muchas veces el usuario puede enlazar este tipo de dispositivo con uno diferente, por ejemplo, el móvil, y controlar los datos recogidos extrayendo unos resultados con el fin de lograr una serie de objetivos. Por ejemplo, a un deportista le interesará más as horas de sueño, kilómetros recorridos... y con ellos puede elaborar un plan de entrenamiento y, por otro lado, un empresario puede centrarse más en reuniones en cualquier espacio gracias a su reloj.
 
+## CONCLUSIONES:
+Es interesante ver como la cultura digital avanza de esta manera, tanto desde la remediación como la hibridación. En este caso, la capacidad de crear dispositivos que combinen diferentes medios y sean funcionales así como la capcidad de los indivudos de adaptarse a ellos y disfrutarlos gratamente. Con ello, se obtiene que esta hibridación es clace para la evolución de los medios y su eficacia en cada momento de la historia de la cultura digital. Al fin y al cabo, ¡es un ciclo que está en costante desarrollo!
+
 
 ## REFERENCIAS:
 - Adell, F. (s.f.). Remediación, multimedia e hibridación de los medios. UOC.
